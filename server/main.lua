@@ -1,0 +1,2 @@
+-- papa_squatchecker currently runs client-side because the measuring is based on local vehicle bone positions.
+-- This file is here for future expansion, logging, Discord webhooks, fines, citations, etc.
